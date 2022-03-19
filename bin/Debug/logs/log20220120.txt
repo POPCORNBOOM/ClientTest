@@ -1,0 +1,135 @@
+2022-01-20 16:59:13,601 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 16:59:13,653 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:2000) was started
+2022-01-20 16:59:13,655 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 16:59:13,655 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 17:01:45,140 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 17:01:45,194 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:2000) was started
+2022-01-20 17:01:45,196 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 17:01:45,197 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 17:01:48,249 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:2000) was stoppped
+2022-01-20 17:01:48,250 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been stopped!
+2022-01-20 17:20:03,338 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 17:20:03,388 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:2000) was started
+2022-01-20 17:20:03,391 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 17:20:03,391 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 17:25:17,514 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 17:25:17,563 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:2000) was started
+2022-01-20 17:25:17,565 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 17:25:17,565 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 17:26:50,803 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 17:26:50,851 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:2000) was started
+2022-01-20 17:26:50,853 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 17:26:50,853 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 17:29:41,206 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 17:29:41,256 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:2000) was started
+2022-01-20 17:29:41,258 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 17:29:41,258 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 17:29:54,006 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:2000) was stoppped
+2022-01-20 17:29:54,006 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been stopped!
+2022-01-20 17:29:56,472 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 17:34:44,061 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 17:34:44,111 [1] DEBUG WebSocketServer-52243212 - Listener (0.0.0.0:2000) was started
+2022-01-20 17:34:44,113 [1] INFO  WebSocketServer-52243212 - The server instance WebSocketServer-52243212 has been started!
+2022-01-20 17:34:44,113 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 17:36:28,987 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 17:36:29,037 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 17:36:29,039 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 17:36:29,040 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 17:36:39,421 [5] DEBUG 即时通讯服务 - Connected withSuperWebSocket.WebSocketSession
+2022-01-20 17:36:58,306 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 17:36:58,355 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 17:36:58,357 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 17:36:58,358 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 17:37:00,762 [5] DEBUG 即时通讯服务 - Connected withSuperWebSocket.WebSocketSession
+2022-01-20 17:37:45,142 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was stoppped
+2022-01-20 17:37:45,142 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been stopped!
+2022-01-20 18:03:37,379 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:03:37,452 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:03:37,454 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:03:37,454 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:03:48,662 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was stoppped
+2022-01-20 18:03:48,662 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been stopped!
+2022-01-20 18:05:27,254 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:05:27,308 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:05:27,310 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:05:27,310 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:06:33,955 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:06:34,013 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:06:34,016 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:06:34,016 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:13:16,627 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:13:16,681 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:13:16,683 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:13:16,684 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:13:23,792 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was stoppped
+2022-01-20 18:13:23,792 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been stopped!
+2022-01-20 18:13:26,072 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:13:31,965 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:13:32,028 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:13:32,036 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:13:32,037 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:13:34,649 [5] DEBUG 即时通讯服务 - Connected withSuperWebSocket.WebSocketSession
+2022-01-20 18:17:53,007 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:17:53,062 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:17:53,064 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:17:53,064 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:17:55,795 [5] DEBUG 即时通讯服务 - Connected withSuperWebSocket.WebSocketSession
+2022-01-20 18:18:53,484 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:18:53,540 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:18:53,542 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:18:53,542 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:18:54,243 [8] DEBUG 即时通讯服务 - Connected withSuperWebSocket.WebSocketSession
+2022-01-20 18:19:28,853 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:19:28,909 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:19:28,911 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:19:28,912 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:19:58,936 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:19:58,990 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:19:58,992 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:19:58,992 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:20:03,492 [5] DEBUG 即时通讯服务 - Connected withSuperWebSocket.WebSocketSession
+2022-01-20 18:21:39,372 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:21:39,426 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:21:39,428 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:21:39,429 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:21:52,091 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:21:52,147 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:21:52,149 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:21:52,149 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:21:53,952 [5] DEBUG 即时通讯服务 - Connected withce64eb5d-7ed1-4146-95bd-85542567d47b
+2022-01-20 18:26:51,138 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:26:51,192 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:26:51,194 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:26:51,194 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:27:21,789 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:27:21,845 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:27:21,848 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:27:21,848 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:27:24,070 [5] DEBUG 即时通讯服务 - Connected with5cf83f1f-9bb3-40a6-a234-d20ebed0b007
+2022-01-20 18:36:56,561 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:36:56,616 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:36:56,619 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:36:56,619 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:37:00,538 [5] DEBUG 即时通讯服务 - Connected with708588c6-624d-4b36-8931-d8a1b7f83d29
+2022-01-20 18:38:07,913 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:38:07,969 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:38:07,971 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:38:07,971 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:38:09,411 [5] DEBUG 即时通讯服务 - Connected with49ca250e-7a60-4763-bdb3-e58827f6c786
+2022-01-20 18:39:17,703 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:39:17,757 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:39:17,759 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:39:17,760 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:39:19,490 [5] DEBUG 即时通讯服务 - Connected withfd74a741-822e-4773-8d26-9b7945f20dcd
+2022-01-20 18:40:52,603 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 18:40:52,657 [1] DEBUG WebSocketServer-30631159 - Listener (0.0.0.0:5233) was started
+2022-01-20 18:40:52,659 [1] INFO  WebSocketServer-30631159 - The server instance WebSocketServer-30631159 has been started!
+2022-01-20 18:40:52,660 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 18:40:55,676 [9] DEBUG 即时通讯服务 - Connected withee0198f0-f9d8-4a22-91ff-c07fc57eb8f2
+2022-01-20 19:13:14,903 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-20 19:13:14,957 [1] DEBUG WebSocketServer-7244975 - Listener (0.0.0.0:2333) was started
+2022-01-20 19:13:14,958 [1] INFO  WebSocketServer-7244975 - The server instance WebSocketServer-7244975 has been started!
+2022-01-20 19:13:14,959 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-20 19:13:44,953 [18] DEBUG 即时通讯服务 - Connected with95450186-b19d-49b4-9870-d61a9675b8df
+2022-01-20 19:16:02,769 [1] DEBUG WebSocketServer-7244975 - Listener (0.0.0.0:2333) was stoppped
+2022-01-20 19:16:02,769 [1] INFO  WebSocketServer-7244975 - The server instance WebSocketServer-7244975 has been stopped!

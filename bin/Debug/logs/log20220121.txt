@@ -1,0 +1,5 @@
+2022-01-21 09:24:41,065 [1] DEBUG 即时通讯服务 - SuperWebSocket(0.8).Source服务器 start the WebSocketServer!
+2022-01-21 09:24:41,202 [1] DEBUG WebSocketServer-7244975 - Listener (0.0.0.0:5233) was started
+2022-01-21 09:24:41,204 [1] INFO  WebSocketServer-7244975 - The server instance WebSocketServer-7244975 has been started!
+2022-01-21 09:24:41,204 [1] INFO  即时通讯服务 - 通讯服务器启动成功!
+2022-01-21 09:24:43,777 [5] DEBUG 即时通讯服务 - Connected withcadbafc3-48b5-4e97-9420-ed0618d5e53c
